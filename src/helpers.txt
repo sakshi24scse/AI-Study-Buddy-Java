@@ -1,0 +1,13 @@
+package helpers;
+
+public class AIHelper {
+
+    // Simple placeholder for future AI logic
+    public static String generateStudyTip() {
+        return "Stay focused! Complete one task at a time for better productivity.";
+    }
+
+    public static String suggestNextTask() {
+        return "Based on your tasks, you should revise OOP concepts today!";
+    }
+}
