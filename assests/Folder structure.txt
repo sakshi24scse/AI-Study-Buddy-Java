@@ -1,0 +1,6 @@
+src/
+    models/
+    database/
+    helpers/
+    ui/
+assets/
