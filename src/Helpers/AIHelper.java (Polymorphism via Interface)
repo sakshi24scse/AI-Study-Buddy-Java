@@ -1,0 +1,9 @@
+package helpers;
+
+public class AIHelper implements SuggestionEngine {
+
+    @Override
+    public String generateStudyTip() {
+        return "Study consistently for 25 minutes, take a 5-minute break (Pomodoro Method)";
+    }
+}
