@@ -1,2 +1,2 @@
 # AI-Study-Buddy-Java
-AI Study Buddy is a smart Java application that helps students plan study schedules, track progress, and stay motivated using AI-based suggestions.
+Implemented a Java Servlet to handle backend login authentication using JDBC. The servlet shares the same MySQL database as the Java Swing GUI application, demonstrating server-side processing, database integration, and modular architecture
